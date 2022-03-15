@@ -1,0 +1,17 @@
+.nav ul{
+    display: flex;
+    list-style-type: none;
+    justify-content: center;
+  }
+  
+  .nav ul li {
+    margin:0 20px;
+    font-weight: bolder;
+    padding: 5px;
+  }
+  
+  .nav ul li:hover{
+    background-color: rgb(233, 233, 233);
+    border-radius: 10px;
+    cursor: pointer;
+  }
